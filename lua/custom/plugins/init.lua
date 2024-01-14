@@ -2,4 +2,13 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return {}
+return {
+    'tpope/vim-obsession',
+    --'nikvdp/neomux'
+    'bfredl/nvim-luadev',
+    'kndndrj/nvim-dbee'
+
+}
+
+
+-- vim: set tabstop=4 shiftwidth=4 expandtab:
